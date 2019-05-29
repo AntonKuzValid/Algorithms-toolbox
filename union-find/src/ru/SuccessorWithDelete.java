@@ -1,3 +1,5 @@
+package ru;
+
 /**
  * Successor with delete. Given a set of n integers S={0,1,...,n−1} and a sequence of requests of the following form:
  * <p>

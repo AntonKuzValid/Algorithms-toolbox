@@ -1,3 +1,5 @@
+package ru;
+
 public class UnionFind {
 
     private int[] id;
